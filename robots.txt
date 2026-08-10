@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: besplatnye-frispiny.github.io
+Sitemap: https://besplatnye-frispiny.github.io/sitemap.xml
